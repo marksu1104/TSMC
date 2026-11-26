@@ -1,0 +1,8 @@
+{"k": 6, "cap": 2, "C": 167, "C_status": "OPTIMAL", "C_sec": 0.0, "D": 167, "D_status": "OPTIMAL", "D_bound": 167.0, "D_sec": 5.01, "D_vars": 183}
+{"k": 6, "cap": 4, "C": 154, "C_status": "OPTIMAL", "C_sec": 0.07, "D": 154, "D_status": "OPTIMAL", "D_bound": 154.0, "D_sec": 7.58, "D_vars": 183}
+{"k": 8, "cap": 2, "C": 210, "C_status": "OPTIMAL", "C_sec": 0.0, "D": 210, "D_status": "OPTIMAL", "D_bound": 210.0, "D_sec": 62.89, "D_vars": 307}
+{"k": 8, "cap": 4, "C": 179, "C_status": "OPTIMAL", "C_sec": 0.12, "D": 179, "D_status": "OPTIMAL", "D_bound": 179.0, "D_sec": 76.21, "D_vars": 307}
+{"k": 10, "cap": 2, "C": 249, "C_status": "OPTIMAL", "C_sec": 0.0, "D": 259, "D_status": "FEASIBLE", "D_bound": 170.7, "D_sec": 600.02, "D_vars": 463}
+{"k": 10, "cap": 4, "C": 198, "C_status": "OPTIMAL", "C_sec": 0.11, "D": 198, "D_status": "FEASIBLE", "D_bound": 134.6, "D_sec": 600.02, "D_vars": 463}
+{"k": 12, "cap": 2, "C": 294, "C_status": "OPTIMAL", "C_sec": 0.01, "D": 312, "D_status": "FEASIBLE", "D_bound": 161.6, "D_sec": 600.04, "D_vars": 651}
+{"k": 12, "cap": 4, "C": 234, "C_status": "OPTIMAL", "C_sec": 0.17, "D": 245, "D_status": "FEASIBLE", "D_bound": 107.2, "D_sec": 600.03, "D_vars": 651}
